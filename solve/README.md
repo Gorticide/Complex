@@ -10,9 +10,12 @@ Split into two different programs, one for actual <complex> from STl where a, b,
 another for experimental complex where a, b, c, d are Integers and solution in Fractions
 
  Example of what this program solves:
+ 
  Find all pairs of complex numbers x and y for which 3x + 5y i = 6 + 30 i
+ 
  Since x and y are complex numbers, we can write x = a + bi when a, b in Real,
  and y = c + di when c, d in Real.
+ 
  
  Substituting in 3x + 5y i = 6 + 30i, we obtain
    3(a + bi) + 5(c + di)i = 6 + 30i
