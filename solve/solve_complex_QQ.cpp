@@ -111,7 +111,7 @@ QQ getEquation()   {
     char sign;
     std::string val;
 
-    cout << "\nEnter equation of complex numbers where: ax + by i = cx + dy i\n\n";
+    cout << "\nEnter equation of complex numbers where: ax + by i = c + d i\n\n";
 	  cout << "\nand a, b, c, and d are Intgers\n ";
 
 	  cout << "\n\nEnter BOTH components of left member (a and b) as INTEGERS\n"
