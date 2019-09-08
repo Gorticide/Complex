@@ -116,7 +116,7 @@ RR getEquation()   {
     std::string val;
     double tol = 0.00001;
 
-    cout << "\nEnter equation of complex numbers where: ax + by i = cx + dy i\n\n";
+    cout << "\nEnter equation of complex numbers where: ax + by i = c + d i\n\n";
 	  cout << "\nand a, b, c, and d are Real\n ";
     cout << "\n\nEnter BOTH components of left member (a and b of ax + by i).\n";
     complex<double> x = getComplex();
