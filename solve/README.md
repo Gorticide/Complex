@@ -1,5 +1,8 @@
 g++ -g solve_complex_RR.cpp fraction.cpp -std=c++11 -o solve_complex_RR
+
+
  Michael William Hentrich
+ 
  4 November 2018
  
           D I V I D E   A N D   C O N Q U O R
