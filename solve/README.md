@@ -30,4 +30,3 @@ another for experimental complex where a, b, c, d are Integers and solution in F
 At this point we are free to assign any real values to a and b.
 
 I may make two versions, one using Rationals (Fraction), the other using reals.
-We may even wish to experiment with <complex>.  Explore and tinker!
